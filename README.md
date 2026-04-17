@@ -37,7 +37,7 @@ The dashboard includes:
 
 ## ▶️ How to Run
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/srijadevanaka-maker/ai-dashboard
 2. Go to project folder: cd ai-dashboard
 3. Install dependencies: npm install
 4. Start the project: npm start
